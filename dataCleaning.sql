@@ -1,5 +1,5 @@
 
--- adresa
+-- popunjavanje adrese
 
 
 select nashville_housing.propertyaddress from nashville_housing
